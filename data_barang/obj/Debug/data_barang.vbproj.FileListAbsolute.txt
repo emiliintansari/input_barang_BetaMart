@@ -1,0 +1,13 @@
+D:\visualstudio2019\data_barang\data_barang\bin\Debug\data_barang.exe.config
+D:\visualstudio2019\data_barang\data_barang\bin\Debug\data_barang.exe
+D:\visualstudio2019\data_barang\data_barang\bin\Debug\data_barang.pdb
+D:\visualstudio2019\data_barang\data_barang\bin\Debug\data_barang.xml
+D:\visualstudio2019\data_barang\data_barang\obj\Debug\data_barang.Form1.resources
+D:\visualstudio2019\data_barang\data_barang\obj\Debug\data_barang.Resources.resources
+D:\visualstudio2019\data_barang\data_barang\obj\Debug\data_barang.vbproj.GenerateResource.cache
+D:\visualstudio2019\data_barang\data_barang\obj\Debug\data_barang.vbproj.CoreCompileInputs.cache
+D:\visualstudio2019\data_barang\data_barang\obj\Debug\data_barang.exe
+D:\visualstudio2019\data_barang\data_barang\obj\Debug\data_barang.xml
+D:\visualstudio2019\data_barang\data_barang\obj\Debug\data_barang.pdb
+D:\visualstudio2019\data_barang\data_barang\obj\Debug\data_barang.Form2.resources
+D:\visualstudio2019\data_barang\data_barang\obj\Debug\data_barang.vbproj.AssemblyReference.cache
